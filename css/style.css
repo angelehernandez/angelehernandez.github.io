@@ -5,7 +5,10 @@ title {
 }
 
 body {
-	background-color: aliceblue;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light";
+	font-weight: 300;
+	background-color: #edf5c8;
+	color: rgb(92, 92, 92);
 }
 
 table {
@@ -20,7 +23,6 @@ th {
 }
 
 h1 {
-	color:blue; 
 	font-size: 22px;
 	text-align: center;
 }
